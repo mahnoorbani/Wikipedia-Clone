@@ -6,8 +6,8 @@ i have develped a Wikipedia clone for any wikipedia search. It is built by using
 
 ## Demo
 
-![Wikipedia Clone Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Wikipedia Clone Desktop Demo](./website-demo-image/desktop1.png "Desktop Demo Dark theme")
+![Wikipedia Clone Desktop Demo](website-demo-image/desktop.png "Desktop Demo")
+![Wikipedia Clone Desktop Demo](website-demo-image/desktop1.png "Desktop Demo Dark theme")
 
 
 
